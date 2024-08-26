@@ -49,6 +49,10 @@ export default function Home() {
             <p>所属：総合システム工学科２年</p>
             <p>名前：本舘陽太</p>
             <p>メールアドレス：h.motodate.sys23@morijyobi.ac.jp</p>
+            <p>獲得資格：基本情報技術者試験、
+              java検定3級、
+              Linux技術者認定資格
+            </p>
           </div>
         </div>
       </div>
